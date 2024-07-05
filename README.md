@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React, Spring-Boot**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/shivajiware7](linkedin.com/in/shivajiware7)
-
 - 📫 How to reach me **shvjware@gmail.com**
 
 - 📄 Know about my experiences [Fresher](Fresher)
