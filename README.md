@@ -14,11 +14,7 @@
 - 📄 Know about my experiences [Fresher](Fresher)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap;">
-  <a href="https://linkedin.com/in/shivajiware7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivajiware7" height="30" width="40" /></a>
-  <a href="https://instagram.com/shiv___.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiv___.7" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/wareshivaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wareshivaji" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap;"> 
